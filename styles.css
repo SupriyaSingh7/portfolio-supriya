@@ -1,0 +1,40 @@
+        .pad {
+            padding: 0 10px 0 0;
+        }
+        .myclass {
+            font-family: "Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: whitesmoke;
+            font-size: large;
+        }
+        .myfont {
+            font-family: "Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: whitesmoke;
+            font-size: medium;
+            font-weight: bold;
+        }
+        .largefont {
+            font-size: x-large;
+        }
+.largerfont {
+    font-size: 270%;
+}
+        .green{
+            color:#15487B;
+        }
+.whitesmoke{
+    color: whitesmoke;
+}
+.smallfont {
+            font-family: "Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: small;
+}
+        span:hover {
+            color: #15487B;
+        }
+@media (min-width: 768px){
+}
+@media (max-width: 550px){
+    .futurefont {
+        font-size: x-large;
+    }
+}
